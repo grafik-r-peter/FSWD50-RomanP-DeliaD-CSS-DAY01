@@ -1,0 +1,32 @@
+div {
+	border: 2px solid skyblue;
+	margin: 20px;
+
+}
+
+#third > p {
+	font-size: 2em;
+}
+
+/* first lesson */
+
+/*
+
+#third > p {
+	display: none;
+}
+
+h1 {
+	display: none;
+}
+
+#first, #second {
+	visibility: hidden
+}
+
+img {
+	visibility: visible;
+}
+
+*/ 
+
