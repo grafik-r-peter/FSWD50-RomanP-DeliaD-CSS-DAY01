@@ -1,0 +1,20 @@
+.author {
+	font-style: italic;
+	font-size: .5em;
+ 
+}
+
+#author {
+	color: gray;
+}
+
+article {
+	font-family: sans-serif;
+}
+
+.container {
+	margin: auto;
+}
+.summary {
+	margin-top: 10px;
+}
