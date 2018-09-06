@@ -1,0 +1,29 @@
+/* typo */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	margin: 0;
+}
+
+h1 {
+	font-size:8em;
+	font-weight: 300;
+
+}
+
+/* LAYOUT */
+
+#wrapper {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.container {  
+	clear: both; /* IS THE CLEAR PROPERTY GOOD PRACTICE? */
+	float: left;
+}
+

@@ -1,0 +1,23 @@
+#header-top {
+	width: 70%;
+	float: left;
+	height: 157px;
+
+}
+
+#top-sidebar-right {
+	width: 30%;
+	float: left;
+	background: #d9d9d9;
+	height: 131px;
+}
+
+#top-sidebar-right > p {
+	padding-left: 15px;
+
+}
+
+#hero-image {
+	width: 100%;
+}
+

@@ -1,0 +1,13 @@
+footer {
+	clear: both;
+	background: black;
+	margin:  0;
+	height: 30px;
+	display:flex; /* FLEXBOX out of css3 */
+    align-items:center;
+    text-align: right;
+}
+
+footer  p {
+	color: #fff;
+}
